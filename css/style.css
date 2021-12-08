@@ -1,0 +1,9 @@
+body {
+    background: #eee;
+}
+
+img {
+    display: block;
+    width: 6rem;
+    margin-bottom: 1rem;
+}
